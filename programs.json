@@ -1,0 +1,221 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2021-06-11T15:17:05.158-00:00",
+	"Sources" : 
+	[
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "Badlion.BadlionClient"
+				},
+				{
+					"PackageIdentifier" : "ModernFlyouts.ModernFlyouts"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudio.2019.BuildTools"
+				},
+				{
+					"PackageIdentifier" : "7zip.7zip"
+				},
+				{
+					"PackageIdentifier" : "SaladTechnologies.Salad"
+				},
+				{
+					"PackageIdentifier" : "angryziber.AngryIPScanner"
+				},
+				{
+					"PackageIdentifier" : "Codeblocks.Codeblocks"
+				},
+				{
+					"PackageIdentifier" : "CrystalDewWorld.CrystalDiskInfo"
+				},
+				{
+					"PackageIdentifier" : "Discord.Discord"
+				},
+				{
+					"PackageIdentifier" : "Docker.DockerDesktop"
+				},
+				{
+					"PackageIdentifier" : "dev47apps.DroidCam"
+				},
+				{
+					"PackageIdentifier" : "GIMP.GIMP"
+				},
+				{
+					"PackageIdentifier" : "GitHub.GitHubDesktop"
+				},
+				{
+					"PackageIdentifier" : "Git.Git"
+				},
+				{
+					"PackageIdentifier" : "Google.Chrome"
+				},
+				{
+					"PackageIdentifier" : "JetBrains.IntelliJIDEA.Community"
+				},
+				{
+					"PackageIdentifier" : "JetBrains.IntelliJIDEA.Community"
+				},
+				{
+					"PackageIdentifier" : "KiCad.KiCad"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Edge"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsTerminal"
+				},
+				{
+					"PackageIdentifier" : "OBSProject.OBSStudio"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.OneDrive"
+				},
+				{
+					"PackageIdentifier" : "Parsec.Parsec"
+				},
+				{
+					"PackageIdentifier" : "JetBrains.PyCharm.Community"
+				},
+				{
+					"PackageIdentifier" : "JetBrains.PyCharm.Community"
+				},
+				{
+					"PackageIdentifier" : "RaspberryPiFoundation.RaspberryPiImager"
+				},
+				{
+					"PackageIdentifier" : "Valve.Steam"
+				},
+				{
+					"PackageIdentifier" : "SublimeHQ.SublimeMerge"
+				},
+				{
+					"PackageIdentifier" : "SublimeHQ.SublimeText.3"
+				},
+				{
+					"PackageIdentifier" : "TeamViewer.TeamViewer"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Teams"
+				},
+				{
+					"PackageIdentifier" : "eliboa.TegraRcmGUI"
+				},
+				{
+					"PackageIdentifier" : "Ultimaker.Cura"
+				},
+				{
+					"PackageIdentifier" : "Ubisoft.Connect"
+				},
+				{
+					"PackageIdentifier" : "VideoLAN.VLC"
+				},
+				{
+					"PackageIdentifier" : "Zoom.Zoom"
+				},
+				{
+					"PackageIdentifier" : "Balena.Etcher"
+				},
+				{
+					"PackageIdentifier" : "Ottomated.CrewLink"
+				},
+				{
+					"PackageIdentifier" : "Notion.Notion"
+				},
+				{
+					"PackageIdentifier" : "WinSCP.WinSCP"
+				},
+				{
+					"PackageIdentifier" : "PuTTY.PuTTY"
+				},
+				{
+					"PackageIdentifier" : "OpenVPNTechnologies.OpenVPNConnect"
+				},
+				{
+					"PackageIdentifier" : "Oracle.JavaRuntimeEnvironment"
+				},
+				{
+					"PackageIdentifier" : "Mojang.MinecraftLauncher"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2012Redist-x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2012Redist-x64"
+				},
+				{
+					"PackageIdentifier" : "ArduinoSA.ArduinoIDE"
+				},
+				{
+					"PackageIdentifier" : "Oracle.VirtualBox"
+				},
+				{
+					"PackageIdentifier" : "LibreOffice.LibreOffice"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerToys"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudioCode"
+				},
+				{
+					"PackageIdentifier" : "Famatech.AdvancedIPScanner"
+				},
+				{
+					"PackageIdentifier" : "ParadoxInteractive.ParadoxLauncher"
+				},
+				{
+					"PackageIdentifier" : "Nvidia.GeForceNow"
+				},
+				{
+					"PackageIdentifier" : "OpenJS.NodeJS"
+				},
+				{
+					"PackageIdentifier" : "BlenderFoundation.Blender"
+				},
+				{
+					"PackageIdentifier" : "Elgato.4KCaptureUtility"
+				},
+				{
+					"PackageIdentifier" : "RealVNC.VNCViewer"
+				},
+				{
+					"PackageIdentifier" : "WireGuard.WireGuard"
+				},
+				{
+					"PackageIdentifier" : "GlavSoft.TightVNC"
+				},
+				{
+					"PackageIdentifier" : "Kitware.CMake"
+				},
+				{
+					"PackageIdentifier" : "Mumble.Mumble"
+				},
+				{
+					"PackageIdentifier" : "EpicGames.EpicGamesLauncher"
+				},
+				{
+					"PackageIdentifier" : "Python.Python.3"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2012Redist-x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2012Redist-x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.dotnetRuntime"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://winget.azureedge.net/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			}
+		}
+	],
+	"WinGetVersion" : "1.0.11451"
+}
