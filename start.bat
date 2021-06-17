@@ -1,3 +1,4 @@
+@echo off 
 echo Hello! 
 echo Installing Python!
 winget install -e --id Python.Python.3
